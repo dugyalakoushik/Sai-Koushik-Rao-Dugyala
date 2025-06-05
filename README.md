@@ -5,5 +5,5 @@ I'm a passionate software developer and data analyst with a strong foundation in
 ## 📫 How to reach me
 
 - Email: [saikoushikdugyala@gmail.com](mailto:saikoushikdugyala@gmail.com)
-- Website: [aakashdeepsil.github.io](https://github.com/dugyalakoushik)
-- LinkedIn: [aakashdeepsil](www.linkedin.com/in/saikoushikraodugyala)
+- Website: [saikoushikdugyala.github.io](https://github.com/dugyalakoushik)
+- LinkedIn: [Sai Koushik Rao Dugyala](www.linkedin.com/in/saikoushikraodugyala)
